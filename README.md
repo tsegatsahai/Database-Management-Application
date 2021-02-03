@@ -1,7 +1,7 @@
 # Database-Management-Application
 
 This database application was built using Visual Studio. I had access to Visual Studio by 
-using the Remote Desktop application to connect to MTSU's *shemp.cs.mtsu.edu*. A cs (computer science) account is needed to access this server.
+using the Remote Desktop application to connect to MTSU's shemp.cs.mtsu.edu. A cs (computer science) account is needed to access this server.
 
 If there is no MTSU CS account, the Visual Studio IDE can be downloaded free of charge 
 from this site: https://visualstudio.microsoft.com/downloads/
