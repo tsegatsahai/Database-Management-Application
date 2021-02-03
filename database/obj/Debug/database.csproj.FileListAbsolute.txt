@@ -1,0 +1,22 @@
+c:\users\tyt2c\documents\visual studio 2015\Projects\database\database\bin\Debug\database.exe.config
+C:\Users\tyt2c\documents\visual studio 2015\Projects\database\database\bin\Debug\supplier_part_shipment.mdf
+C:\Users\tyt2c\documents\visual studio 2015\Projects\database\database\bin\Debug\supplier_part_shipment_log.ldf
+C:\Users\tyt2c\documents\visual studio 2015\Projects\database\database\bin\Debug\database.exe
+C:\Users\tyt2c\documents\visual studio 2015\Projects\database\database\bin\Debug\database.pdb
+C:\Users\tyt2c\documents\visual studio 2015\Projects\database\database\obj\Debug\database.csprojResolveAssemblyReference.cache
+C:\Users\tyt2c\documents\visual studio 2015\Projects\database\database\obj\Debug\database.Properties.Resources.resources
+C:\Users\tyt2c\documents\visual studio 2015\Projects\database\database\obj\Debug\database.csproj.GenerateResource.Cache
+C:\Users\tyt2c\documents\visual studio 2015\Projects\database\database\obj\Debug\database.exe
+C:\Users\tyt2c\documents\visual studio 2015\Projects\database\database\obj\Debug\database.pdb
+C:\Users\tyt2c\documents\visual studio 2015\Projects\database\database\obj\Debug\database.shipmentCompanyForm.resources
+C:\Users\tyt2c\Desktop\database_app\database\bin\Debug\database.exe.config
+C:\Users\tyt2c\Desktop\database_app\database\obj\Debug\database.exe
+C:\Users\tyt2c\Desktop\database_app\database\obj\Debug\database.pdb
+C:\Users\tyt2c\Desktop\database_app\database\bin\Debug\supplier_part_shipment.mdf
+C:\Users\tyt2c\Desktop\database_app\database\bin\Debug\supplier_part_shipment_log.ldf
+C:\Users\tyt2c\Desktop\database_app\database\bin\Debug\database.exe
+C:\Users\tyt2c\Desktop\database_app\database\bin\Debug\database.pdb
+C:\Users\tyt2c\Desktop\database_app\database\obj\Debug\database.csprojResolveAssemblyReference.cache
+C:\Users\tyt2c\Desktop\database_app\database\obj\Debug\database.shipmentCompanyForm.resources
+C:\Users\tyt2c\Desktop\database_app\database\obj\Debug\database.Properties.Resources.resources
+C:\Users\tyt2c\Desktop\database_app\database\obj\Debug\database.csproj.GenerateResource.Cache
