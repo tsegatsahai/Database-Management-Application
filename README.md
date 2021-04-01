@@ -7,7 +7,7 @@ If there is no MTSU CS account, the Visual Studio IDE can be downloaded free of 
 from this site: https://visualstudio.microsoft.com/downloads/
 
 After the visual studios application is set up, one simply double-clicks on the 
-solution file found in the *database_app* folder to launch the program.
+solution file named *database.snl* to launch the program.
 
 After the program is opened in visual studios, there is a green 'Start' button located on 
 the top of the page. One simply clicks on that for the program to compile and execute.
